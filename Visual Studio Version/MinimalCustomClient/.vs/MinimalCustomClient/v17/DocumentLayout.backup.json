@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mocap\\Documents\\Francois\\zzz_ActualProject\\Visual Studio Version\\MinimalCustomClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA83E58-31AF-48F1-BD78-F03AE9CB800C}|MinimalCustomClient\\MinimalCustomClient.vcxproj|C:\\Users\\mocap\\Documents\\Francois\\zzz_ActualProject\\Visual Studio Version\\MinimalCustomClient\\MinimalCustomClient\\src\\MinimalCustomClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6AA83E58-31AF-48F1-BD78-F03AE9CB800C}|MinimalCustomClient\\MinimalCustomClient.vcxproj|solutionrelative:MinimalCustomClient\\src\\MinimalCustomClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MinimalCustomClient.cpp",
+              "DocumentMoniker": "C:\\Users\\mocap\\Documents\\Francois\\zzz_ActualProject\\Visual Studio Version\\MinimalCustomClient\\MinimalCustomClient\\src\\MinimalCustomClient.cpp",
+              "RelativeDocumentMoniker": "MinimalCustomClient\\src\\MinimalCustomClient.cpp",
+              "ToolTip": "C:\\Users\\mocap\\Documents\\Francois\\zzz_ActualProject\\Visual Studio Version\\MinimalCustomClient\\MinimalCustomClient\\src\\MinimalCustomClient.cpp",
+              "RelativeToolTip": "MinimalCustomClient\\src\\MinimalCustomClient.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-19T19:58:35.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
