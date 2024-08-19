@@ -1,3 +1,4 @@
+REM ---- You need to run this inside visual studio command prompt. Do open in terminal
 
 @echo off
 REM Set up directories
