@@ -50,6 +50,7 @@ sDataDescriptions* g_pDataDefs = nullptr;
 int main(int argc, char* argv[])
 {
     ErrorCode ret = ErrorCode_OK;
+	
 
     // Create a NatNet client
     g_pClient = new NatNetClient();
@@ -76,8 +77,7 @@ int main(int argc, char* argv[])
     ret = g_pClient->GetServerDescription(&g_serverDescription);
     if (ret != ErrorCode_OK || !g_serverDescription.HostPresent)
     {
-        printf("Unable to get server description. Error Code:%d.  Exiting.\n", ret);
-        return 1;
+        printf("Unable to get server description. Error Code:%d.  Exiting.\n", ret); return 1;
     }
     else
     {
@@ -94,16 +94,28 @@ int main(int argc, char* argv[])
     }
     else
     {
+		printf("\n\n-----Start initialisation-----\n\n");
         PrintDataDescriptions(g_pDataDefs);
+		printf("\n\n-----end init-----\n\n");
     }
 
     printf("\nClient is connected and listening for data...\n");
     
+
+
+	int i = 0;
     // do something on the main app's thread...
-    while (true)
+    while (i < 10)
     {
-        std::this_thread::sleep_for(std::chrono::milliseconds(100));
+
+        std::this_thread::sleep_for(std::chrono::milliseconds(10000));
+		printf("\n\n-----Test After---------\n\n");
+		i++;
     }
+
+
+
+
 
     // Clean up
     if (g_pClient)
