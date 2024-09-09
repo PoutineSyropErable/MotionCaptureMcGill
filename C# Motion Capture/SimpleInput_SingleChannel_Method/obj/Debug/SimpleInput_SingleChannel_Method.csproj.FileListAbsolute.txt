@@ -1,8 +1,8 @@
-C:\Users\mocap\Documents\Francois\zzz_ActualProject\C# Motion Capture\SimpleInput_SingleChannel_Method\obj\Debug\SimpleInput_SingleChannel_Method.csproj.AssemblyReference.cache
 C:\Users\mocap\Documents\Francois\zzz_ActualProject\C# Motion Capture\SimpleInput_SingleChannel_Method\bin\Debug\SimpleInput_SingleChannel_Method.exe.config
 C:\Users\mocap\Documents\Francois\zzz_ActualProject\C# Motion Capture\SimpleInput_SingleChannel_Method\bin\Debug\SimpleInput_SingleChannel_Method.exe
 C:\Users\mocap\Documents\Francois\zzz_ActualProject\C# Motion Capture\SimpleInput_SingleChannel_Method\bin\Debug\SimpleInput_SingleChannel_Method.pdb
 C:\Users\mocap\Documents\Francois\zzz_ActualProject\C# Motion Capture\SimpleInput_SingleChannel_Method\bin\Debug\Dnc.dll
+C:\Users\mocap\Documents\Francois\zzz_ActualProject\C# Motion Capture\SimpleInput_SingleChannel_Method\obj\Debug\SimpleInput_SingleChannel_Method.csproj.AssemblyReference.cache
 C:\Users\mocap\Documents\Francois\zzz_ActualProject\C# Motion Capture\SimpleInput_SingleChannel_Method\obj\Debug\SimpleInput_SingleChannel_Method.SimpleInput_SingleChannel_Method.resources
 C:\Users\mocap\Documents\Francois\zzz_ActualProject\C# Motion Capture\SimpleInput_SingleChannel_Method\obj\Debug\SimpleInput_SingleChannel_Method.Properties.Resources.resources
 C:\Users\mocap\Documents\Francois\zzz_ActualProject\C# Motion Capture\SimpleInput_SingleChannel_Method\obj\Debug\SimpleInput_SingleChannel_Method.csproj.GenerateResource.cache

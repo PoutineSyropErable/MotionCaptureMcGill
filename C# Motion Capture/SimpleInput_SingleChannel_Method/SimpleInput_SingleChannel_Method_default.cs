@@ -71,7 +71,7 @@ namespace SimpleInput_SingleChannel_Method
         //================================================================================
         private void dncDaq1_OnError(object sender, short DeviceNo, dnc.common.DncErrorEventArgs e)
         {
-            int ret;             // Variable for getting return value
+            int    ret;             // Variable for getting return value
             string error_string;    // Error string
 
             //----------------------------------------
@@ -96,7 +96,7 @@ namespace SimpleInput_SingleChannel_Method
                 // Displays error parameters in the text box
                 // The method called by Invoke is described by the lambda expression [=>]
                 //----------------------------------------
-                Invoke(new Action(() => textBox_ErrorDetail.Text = "Device No.: " + DeviceNo.ToString() + "\r\n" +
+                Invoke(new Action(() => textBox_ErrorDetail.Text =  "Device No.: " + DeviceNo.ToString() + "\r\n" +
                                                                     "Error type: " + e.ErrorType.ToString() + "\r\n" +
                                                                     "Error code(value): " + e.Error.ToString() + "\r\n" +
                                                                     "Error code(character string): " + error_string + "\r\n" +
@@ -108,7 +108,7 @@ namespace SimpleInput_SingleChannel_Method
                 //----------------------------------------
                 // Displays error parameters in the text box
                 //----------------------------------------
-                textBox_ErrorDetail.Text = "Device No.: " + DeviceNo.ToString() + "\r\n" +
+                textBox_ErrorDetail.Text =  "Device No.: " + DeviceNo.ToString() + "\r\n" +
                                             "Error type: " + e.ErrorType.ToString() + "\r\n" +
                                             "Error code(value): " + e.Error.ToString() + "\r\n" +
                                             "Error code(character string): " + error_string + "\r\n" +
@@ -121,12 +121,12 @@ namespace SimpleInput_SingleChannel_Method
         //================================================================================
         private void button_InputChannel_Click(object sender, EventArgs e)
         {
-            int ret1;            // Variable for getting return value
-            int ret2;            // Variable for getting return value 2
-            float aidata;          // Variables for storing analog data
-            short device_no;       // Device No. storage variable
-            short channel;         // Variable for storing channel data
-            string error_string;    // Error string
+            int     ret1;            // Variable for getting return value
+            int     ret2;            // Variable for getting return value 2
+            float   aidata;          // Variables for storing analog data
+            short   device_no;       // Device No. storage variable
+            short   channel;         // Variable for storing channel data
+            string  error_string;    // Error string
 
             //------------------------------------
             // Get the device number and conversion channel from the text box
