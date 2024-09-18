@@ -1,2 +1,4 @@
 C:\Users\mocap\Documents\Francois\zzz_ActualProject\C# Motion Capture\Custom\obj\Debug\ForceCapture.csproj.AssemblyReference.cache
 C:\Users\mocap\Documents\Francois\zzz_ActualProject\C# Motion Capture\Custom\obj\Debug\ForceCapture.csproj.CoreCompileInputs.cache
+E:\School and Work\University (real)\Semester 9\Comp 400\zz_Actual Project\C# Motion Capture\Custom\obj\Debug\ForceCapture.csproj.AssemblyReference.cache
+E:\School and Work\University (real)\Semester 9\Comp 400\zz_Actual Project\C# Motion Capture\Custom\obj\Debug\ForceCapture.csproj.CoreCompileInputs.cache

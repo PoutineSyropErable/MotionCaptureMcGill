@@ -10,3 +10,15 @@ C:\Users\mocap\Documents\Francois\zzz_ActualProject\C# Motion Capture\SimpleInpu
 C:\Users\mocap\Documents\Francois\zzz_ActualProject\C# Motion Capture\SimpleInput_SingleChannel_Method\obj\Debug\SimpleIn.891974C4.Up2Date
 C:\Users\mocap\Documents\Francois\zzz_ActualProject\C# Motion Capture\SimpleInput_SingleChannel_Method\obj\Debug\SimpleInput_SingleChannel_Method.exe
 C:\Users\mocap\Documents\Francois\zzz_ActualProject\C# Motion Capture\SimpleInput_SingleChannel_Method\obj\Debug\SimpleInput_SingleChannel_Method.pdb
+E:\School and Work\University (real)\Semester 9\Comp 400\zz_Actual Project\C# Motion Capture\SimpleInput_SingleChannel_Method1\bin\Debug\SimpleInput_SingleChannel_Method.exe.config
+E:\School and Work\University (real)\Semester 9\Comp 400\zz_Actual Project\C# Motion Capture\SimpleInput_SingleChannel_Method1\bin\Debug\SimpleInput_SingleChannel_Method.exe
+E:\School and Work\University (real)\Semester 9\Comp 400\zz_Actual Project\C# Motion Capture\SimpleInput_SingleChannel_Method1\bin\Debug\SimpleInput_SingleChannel_Method.pdb
+E:\School and Work\University (real)\Semester 9\Comp 400\zz_Actual Project\C# Motion Capture\SimpleInput_SingleChannel_Method1\bin\Debug\Dnc.dll
+E:\School and Work\University (real)\Semester 9\Comp 400\zz_Actual Project\C# Motion Capture\SimpleInput_SingleChannel_Method1\obj\Debug\SimpleInput_SingleChannel_Method.csproj.AssemblyReference.cache
+E:\School and Work\University (real)\Semester 9\Comp 400\zz_Actual Project\C# Motion Capture\SimpleInput_SingleChannel_Method1\obj\Debug\SimpleInput_SingleChannel_Method.SimpleInput_SingleChannel_Method.resources
+E:\School and Work\University (real)\Semester 9\Comp 400\zz_Actual Project\C# Motion Capture\SimpleInput_SingleChannel_Method1\obj\Debug\SimpleInput_SingleChannel_Method.Properties.Resources.resources
+E:\School and Work\University (real)\Semester 9\Comp 400\zz_Actual Project\C# Motion Capture\SimpleInput_SingleChannel_Method1\obj\Debug\SimpleInput_SingleChannel_Method.csproj.GenerateResource.cache
+E:\School and Work\University (real)\Semester 9\Comp 400\zz_Actual Project\C# Motion Capture\SimpleInput_SingleChannel_Method1\obj\Debug\SimpleInput_SingleChannel_Method.csproj.CoreCompileInputs.cache
+E:\School and Work\University (real)\Semester 9\Comp 400\zz_Actual Project\C# Motion Capture\SimpleInput_SingleChannel_Method1\obj\Debug\SimpleIn.891974C4.Up2Date
+E:\School and Work\University (real)\Semester 9\Comp 400\zz_Actual Project\C# Motion Capture\SimpleInput_SingleChannel_Method1\obj\Debug\SimpleInput_SingleChannel_Method.exe
+E:\School and Work\University (real)\Semester 9\Comp 400\zz_Actual Project\C# Motion Capture\SimpleInput_SingleChannel_Method1\obj\Debug\SimpleInput_SingleChannel_Method.pdb

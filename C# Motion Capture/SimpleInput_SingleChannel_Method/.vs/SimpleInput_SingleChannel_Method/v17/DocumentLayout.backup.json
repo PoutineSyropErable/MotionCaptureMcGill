@@ -1,22 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Public\\Documents\\CONTEC\\DAQfast\\DAQ-DNC\\Sample\\Vcs2015\\AioFunction\\SimpleInput\\SimpleInput_SingleChannel_Method\\",
+  "WorkspaceRootPath": "E:\\School and Work\\University (real)\\Semester 9\\Comp 400\\zz_Actual Project\\C# Motion Capture\\SimpleInput_SingleChannel_Method1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Documents\\CONTEC\\DAQfast\\DAQ-DNC\\Sample\\Vcs2015\\AioFunction\\SimpleInput\\SimpleInput_SingleChannel_Method\\SimpleInput_SingleChannel_Method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SimpleInput_SingleChannel_Method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{060B6934-8629-4FD1-B024-12AD8BF9575B}|SimpleInput_SingleChannel_Method.csproj|e:\\school and work\\university (real)\\semester 9\\comp 400\\zz_actual project\\c# motion capture\\simpleinput_singlechannel_method1\\simpleinput_singlechannel_method.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060B6934-8629-4FD1-B024-12AD8BF9575B}|SimpleInput_SingleChannel_Method.csproj|solutionrelative:simpleinput_singlechannel_method.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Documents\\CONTEC\\DAQfast\\DAQ-DNC\\Sample\\Vcs2015\\AioFunction\\SimpleInput\\SimpleInput_SingleChannel_Method\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Documents\\CONTEC\\DAQfast\\DAQ-DNC\\Sample\\Vcs2015\\AioFunction\\SimpleInput\\SimpleInput_SingleChannel_Method\\Properties\\Settings.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Properties\\Settings.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Documents\\CONTEC\\DAQfast\\DAQ-DNC\\Sample\\Vcs2015\\AioFunction\\SimpleInput\\SimpleInput_SingleChannel_Method\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{060B6934-8629-4FD1-B024-12AD8BF9575B}|SimpleInput_SingleChannel_Method.csproj|e:\\school and work\\university (real)\\semester 9\\comp 400\\zz_actual project\\c# motion capture\\simpleinput_singlechannel_method1\\simpleinput_singlechannel_method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{060B6934-8629-4FD1-B024-12AD8BF9575B}|SimpleInput_SingleChannel_Method.csproj|solutionrelative:simpleinput_singlechannel_method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,59 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Settings.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\CONTEC\\DAQfast\\DAQ-DNC\\Sample\\Vcs2015\\AioFunction\\SimpleInput\\SimpleInput_SingleChannel_Method\\Properties\\Settings.Designer.cs",
-              "RelativeDocumentMoniker": "Properties\\Settings.Designer.cs",
-              "ToolTip": "C:\\Users\\Public\\Documents\\CONTEC\\DAQfast\\DAQ-DNC\\Sample\\Vcs2015\\AioFunction\\SimpleInput\\SimpleInput_SingleChannel_Method\\Properties\\Settings.Designer.cs",
-              "RelativeToolTip": "Properties\\Settings.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T21:21:34.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\CONTEC\\DAQfast\\DAQ-DNC\\Sample\\Vcs2015\\AioFunction\\SimpleInput\\SimpleInput_SingleChannel_Method\\Properties\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\Public\\Documents\\CONTEC\\DAQfast\\DAQ-DNC\\Sample\\Vcs2015\\AioFunction\\SimpleInput\\SimpleInput_SingleChannel_Method\\Properties\\AssemblyInfo.cs",
-              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T21:21:27.979Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SimpleInput_SingleChannel_Method.cs",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\CONTEC\\DAQfast\\DAQ-DNC\\Sample\\Vcs2015\\AioFunction\\SimpleInput\\SimpleInput_SingleChannel_Method\\SimpleInput_SingleChannel_Method.cs",
-              "RelativeDocumentMoniker": "SimpleInput_SingleChannel_Method.cs",
-              "ToolTip": "C:\\Users\\Public\\Documents\\CONTEC\\DAQfast\\DAQ-DNC\\Sample\\Vcs2015\\AioFunction\\SimpleInput\\SimpleInput_SingleChannel_Method\\SimpleInput_SingleChannel_Method.cs",
-              "RelativeToolTip": "SimpleInput_SingleChannel_Method.cs",
-              "ViewState": "AgIAAGMAAAAAAAAAAIApwIoAAAAgAAAAAAAAAA==",
+              "Title": "SimpleInput_SingleChannel_Method.Designer.cs",
+              "DocumentMoniker": "E:\\School and Work\\University (real)\\Semester 9\\Comp 400\\zz_Actual Project\\C# Motion Capture\\SimpleInput_SingleChannel_Method1\\SimpleInput_SingleChannel_Method.Designer.cs",
+              "RelativeDocumentMoniker": "SimpleInput_SingleChannel_Method.Designer.cs",
+              "ToolTip": "E:\\School and Work\\University (real)\\Semester 9\\Comp 400\\zz_Actual Project\\C# Motion Capture\\SimpleInput_SingleChannel_Method1\\SimpleInput_SingleChannel_Method.Designer.cs",
+              "RelativeToolTip": "SimpleInput_SingleChannel_Method.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T21:20:31.123Z",
+              "WhenOpened": "2024-09-18T20:01:26.923Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Public\\Documents\\CONTEC\\DAQfast\\DAQ-DNC\\Sample\\Vcs2015\\AioFunction\\SimpleInput\\SimpleInput_SingleChannel_Method\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Public\\Documents\\CONTEC\\DAQfast\\DAQ-DNC\\Sample\\Vcs2015\\AioFunction\\SimpleInput\\SimpleInput_SingleChannel_Method\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "SimpleInput_SingleChannel_Method.cs [Design]",
+              "DocumentMoniker": "E:\\School and Work\\University (real)\\Semester 9\\Comp 400\\zz_Actual Project\\C# Motion Capture\\SimpleInput_SingleChannel_Method1\\SimpleInput_SingleChannel_Method.cs",
+              "RelativeDocumentMoniker": "SimpleInput_SingleChannel_Method.cs",
+              "ToolTip": "E:\\School and Work\\University (real)\\Semester 9\\Comp 400\\zz_Actual Project\\C# Motion Capture\\SimpleInput_SingleChannel_Method1\\SimpleInput_SingleChannel_Method.cs [Design]",
+              "RelativeToolTip": "SimpleInput_SingleChannel_Method.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T21:20:27.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T20:01:36.286Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

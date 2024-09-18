@@ -39,9 +39,9 @@
     <StartupObject>SimpleInput_SingleChannel_Method.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
-	<Reference Include="Dnc">
-		<HintPath>$(ProjectDir)\Dnc.dll</HintPath>
-	</Reference>
+    <Reference Include="Dnc">
+      <HintPath>$(ProjectDir)\Dnc.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />

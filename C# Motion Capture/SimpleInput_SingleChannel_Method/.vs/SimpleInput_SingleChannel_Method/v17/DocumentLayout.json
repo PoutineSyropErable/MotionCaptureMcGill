@@ -1,12 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mocap\\Documents\\Francois\\zzz_ActualProject\\C# Motion Capture\\SimpleInput_SingleChannel_Method\\",
-  "Documents": [],
+  "WorkspaceRootPath": "E:\\School and Work\\University (real)\\Semester 9\\Comp 400\\zz_Actual Project\\C# Motion Capture\\SimpleInput_SingleChannel_Method1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{060B6934-8629-4FD1-B024-12AD8BF9575B}|SimpleInput_SingleChannel_Method.csproj|e:\\school and work\\university (real)\\semester 9\\comp 400\\zz_actual project\\c# motion capture\\simpleinput_singlechannel_method1\\simpleinput_singlechannel_method.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060B6934-8629-4FD1-B024-12AD8BF9575B}|SimpleInput_SingleChannel_Method.csproj|solutionrelative:simpleinput_singlechannel_method.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060B6934-8629-4FD1-B024-12AD8BF9575B}|SimpleInput_SingleChannel_Method.csproj|e:\\school and work\\university (real)\\semester 9\\comp 400\\zz_actual project\\c# motion capture\\simpleinput_singlechannel_method1\\simpleinput_singlechannel_method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{060B6934-8629-4FD1-B024-12AD8BF9575B}|SimpleInput_SingleChannel_Method.csproj|solutionrelative:simpleinput_singlechannel_method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimpleInput_SingleChannel_Method.Designer.cs",
+              "DocumentMoniker": "E:\\School and Work\\University (real)\\Semester 9\\Comp 400\\zz_Actual Project\\C# Motion Capture\\SimpleInput_SingleChannel_Method1\\SimpleInput_SingleChannel_Method.Designer.cs",
+              "RelativeDocumentMoniker": "SimpleInput_SingleChannel_Method.Designer.cs",
+              "ToolTip": "E:\\School and Work\\University (real)\\Semester 9\\Comp 400\\zz_Actual Project\\C# Motion Capture\\SimpleInput_SingleChannel_Method1\\SimpleInput_SingleChannel_Method.Designer.cs",
+              "RelativeToolTip": "SimpleInput_SingleChannel_Method.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:01:26.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimpleInput_SingleChannel_Method.cs [Design]",
+              "DocumentMoniker": "E:\\School and Work\\University (real)\\Semester 9\\Comp 400\\zz_Actual Project\\C# Motion Capture\\SimpleInput_SingleChannel_Method1\\SimpleInput_SingleChannel_Method.cs",
+              "RelativeDocumentMoniker": "SimpleInput_SingleChannel_Method.cs",
+              "ToolTip": "E:\\School and Work\\University (real)\\Semester 9\\Comp 400\\zz_Actual Project\\C# Motion Capture\\SimpleInput_SingleChannel_Method1\\SimpleInput_SingleChannel_Method.cs [Design]",
+              "RelativeToolTip": "SimpleInput_SingleChannel_Method.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:01:36.286Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
