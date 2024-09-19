@@ -1,4 +1,5 @@
-﻿using System;
+﻿using dnc.daq;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
@@ -6,10 +7,38 @@ using System.Text;
 using System.Threading.Tasks;
 
 
+
+
 namespace Force_capture_console
 {
     class Program
     {
+
+        public static string FormatFloatArray(float[] array, string separator = " ")
+        {
+            return $"[{string.Join(separator, array)}]";
+        }
+
+        public static float[] getForces(dnc.daq.DncDaq dncDaq)
+        {
+
+            float[] forces = new float[6];
+            short deviceNo = 0;   // Replace with your device number
+            short channelMultiple = 12;    // The channels you want to read from
+
+            float[] first12Channels = new float[12];
+            int retMulti = dncDaq.AiInputMultiChannel(deviceNo, channelMultiple, first12Channels);
+
+            for ( int i = 0; i<6; i++)
+            {
+                forces[i] = first12Channels[i + 6];
+
+            }
+
+            return forces;
+
+        }
+
         public class MockContainer : IContainer
         {
             // Internal collection to store components
@@ -61,36 +90,40 @@ namespace Force_capture_console
 
 
 
-            Console.WriteLine("\nBefore creating the dnc Daq\n");
+            //Console.WriteLine("\nBefore creating the dnc Daq\n");
             // Initialize the DAQ object
             dnc.daq.DncDaq dncDaq = new dnc.daq.DncDaq(container);
-            Console.WriteLine("\nAfter creating the dnc Daq\n");
+            //Console.WriteLine("\nAfter creating the dnc Daq\n");
+
+            dncDaq.ShowProperty(); // Must be there, just click ok
+            if (dncDaq.DaqProperty.Device.Count <= 0)
+            {
+                Console.WriteLine("0 Device connected!");
+            }
 
 
 
             // Define device number and channel
             short deviceNo = 0;   // Replace with your device number
             short channel = 6;    // The channel you want to read from
-
-            // Read from the input channel
-            float aiData;
-
-            Console.WriteLine("\nBefore the single channel try\n");
-            int ret = dncDaq.AiInputChannel(deviceNo, channel, out aiData);
-            Console.WriteLine("\nAfter the single input try\n");
+            float channelVoltage;
+            int ret = dncDaq.AiInputChannel(deviceNo, channel, out channelVoltage);
 
 
-            Console.WriteLine("\nBefore the multi input try\n");
             short channelMultiple = 12;    // The channel you want to read from
             float[] aiDataMultiple = new float[channelMultiple];
             int retMulti = dncDaq.AiInputMultiChannel(deviceNo, channelMultiple, aiDataMultiple);
-            Console.WriteLine("\nAfter the multi input try\n");
-
-            Console.WriteLine($"Error reading single channel: {ret}");
-            Console.WriteLine($"Error reading Multi channel: {ret}");
 
 
-            if (ret != 0)
+
+            if (ret == 0)
+            {
+                // Display the result
+                Console.WriteLine("There was no error!");
+                Console.WriteLine($"Channel {channel}: {channelVoltage}");
+                Console.WriteLine($"Channels {channelMultiple}: {FormatFloatArray(aiDataMultiple, ", ")}");
+            }
+            else
             {
                 // If there's an error, retrieve and display the error string
                 string errorString;
@@ -100,16 +133,13 @@ namespace Force_capture_console
                     errorString = "Unknown error";
                 }
                 Console.WriteLine($"Error reading channel: {ret} - {errorString}");
-            }
-            else
-            {
-                // Display the result
-                Console.WriteLine("There was no error!");
-                Console.WriteLine($"Channel {channel}: {aiData}");
-                Console.WriteLine($"Channels {channelMultiple}: {aiDataMultiple}");
+          
             }
 
             Console.WriteLine("\nEnd of Program\n");
+            Console.WriteLine("Press any key to continue...");
+            Console.ReadKey();
+
         }
     }
 }
