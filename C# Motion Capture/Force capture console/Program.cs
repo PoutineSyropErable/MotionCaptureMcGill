@@ -136,7 +136,7 @@ namespace Force_capture_console
                     string timestamp = elapsedTime.TotalSeconds.ToString();
 
                     // Prepare the output line
-                    string outputLine = $"{timestamp} {dataString}";
+                    string outputLine = $"{timestamp} {dataString} Contec-Force-Torque[x,y,z,tx,ty,tz]";
 
                     // Write the line to the file
                     await writer.WriteLineAsync(outputLine);
