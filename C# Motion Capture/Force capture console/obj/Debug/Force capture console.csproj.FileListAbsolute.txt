@@ -16,3 +16,12 @@ E:\School and Work\University (real)\Semester 9\Comp 400\zz_Actual Project\C# Mo
 E:\School and Work\University (real)\Semester 9\Comp 400\zz_Actual Project\C# Motion Capture\Force capture console\obj\Debug\Force ca.61C45388.Up2Date
 E:\School and Work\University (real)\Semester 9\Comp 400\zz_Actual Project\C# Motion Capture\Force capture console\obj\Debug\Force capture console.exe
 E:\School and Work\University (real)\Semester 9\Comp 400\zz_Actual Project\C# Motion Capture\Force capture console\obj\Debug\Force capture console.pdb
+C:\Users\mocap\Documents\Francois\zzz_ActualProject\C# Motion Capture\Force capture console\bin\Debug\Force capture console.exe.config
+C:\Users\mocap\Documents\Francois\zzz_ActualProject\C# Motion Capture\Force capture console\bin\Debug\Force capture console.exe
+C:\Users\mocap\Documents\Francois\zzz_ActualProject\C# Motion Capture\Force capture console\bin\Debug\Force capture console.pdb
+C:\Users\mocap\Documents\Francois\zzz_ActualProject\C# Motion Capture\Force capture console\bin\Debug\Dnc.dll
+C:\Users\mocap\Documents\Francois\zzz_ActualProject\C# Motion Capture\Force capture console\obj\Debug\Force capture console.csproj.AssemblyReference.cache
+C:\Users\mocap\Documents\Francois\zzz_ActualProject\C# Motion Capture\Force capture console\obj\Debug\Force capture console.csproj.CoreCompileInputs.cache
+C:\Users\mocap\Documents\Francois\zzz_ActualProject\C# Motion Capture\Force capture console\obj\Debug\Force ca.61C45388.Up2Date
+C:\Users\mocap\Documents\Francois\zzz_ActualProject\C# Motion Capture\Force capture console\obj\Debug\Force capture console.exe
+C:\Users\mocap\Documents\Francois\zzz_ActualProject\C# Motion Capture\Force capture console\obj\Debug\Force capture console.pdb
